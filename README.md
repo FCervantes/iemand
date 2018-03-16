@@ -1,9 +1,10 @@
-[![Travis build status](https://travis-ci.org/FCervantes/iemand.svg?branch=master)](https://travis-ci.org/FCervantes/iemand)
+[![Travis build status](https://travis-ci.org/FCervantes/iemand.svg?branch=master)](https://travis-ci.org/FCervantes/iemand) 
+[![Coverage status](https://codecov.io/gh/FCervantes/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/FCervantes/iemand?branch=master)
 
 
 # iemand
 
-The goal of iemand is to ...
+The goal of iemand is to learn how to make an R package
 
 ## Installation
 
