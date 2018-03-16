@@ -1,6 +1,6 @@
 #' Create an age for someone
 #'
-#'@details "This function creates a random ege for a random person"
+#'@details "This function creates a random age for a random person"
 #'
 #' @return
 #' @export
