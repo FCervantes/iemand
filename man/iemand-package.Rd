@@ -8,6 +8,14 @@
 \description{
 This package creates random people.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/FCervantes/iemand}
+  \item Report bugs at \url{https://github.com/FCervantes/iemand/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com}
 
