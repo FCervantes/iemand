@@ -3,9 +3,9 @@
 # then, go to code insert Roxygen skeleton
 
 
-#' Title
+#' Title Praise nicely
 #'
-#' @param name
+#' @param name person to be praised
 #'
 #' @return
 #' @export

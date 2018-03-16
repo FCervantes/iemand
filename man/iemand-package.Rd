@@ -4,9 +4,9 @@
 \name{iemand-package}
 \alias{iemand}
 \alias{iemand-package}
-\title{iemand: What the Package Does (One Line, Title Case)}
+\title{iemand: Random people}
 \description{
-What the package does (one paragraph).
+This package creates random people.
 }
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com}

@@ -2,13 +2,13 @@
 % Please edit documentation in R/praise_nicely.R
 \name{praise_nicely}
 \alias{praise_nicely}
-\title{Title}
+\title{Title Praise nicely}
 \usage{
 praise_nicely(name)
 }
 \arguments{
-\item{name}{}
+\item{name}{person to be praised}
 }
 \description{
-Title
+Title Praise nicely
 }
