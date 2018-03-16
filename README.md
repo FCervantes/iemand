@@ -1,3 +1,6 @@
+[![Travis build status](https://travis-ci.org/FCervantes/iemand.svg?branch=master)](https://travis-ci.org/FCervantes/iemand)
+
+
 # iemand
 
 The goal of iemand is to ...
